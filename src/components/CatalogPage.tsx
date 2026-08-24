@@ -811,6 +811,28 @@ export function CatalogPage() {
                   Link
                 </a>
               </div>
+
+              {/* Thirty-Fifth Product - Fluted End Table */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-square bg-white overflow-hidden mb-3">
+                  <img
+                    src="/end-table-decor-modern.png"
+                    alt="Fluted End Table"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <h3 className="text-sm font-medium text-gray-900">Fluted End Table</h3>
+                <p className="text-xs text-gray-600 mt-1 mb-2">Accent end tables available individually or as a set of 2. Comes in 3 colours: walnut, black or natural. Easy to deal with seller. Especially beautiful in the living room or bedroom.</p>
+                <a
+                  href="https://www.amazon.com/MAHYIZYI-Fluted-Pedestal-Farmhouse-Walnut-2PCS/dp/B0GJS7KN8Y?ie=UTF8&th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=38e3d6faa6006ebb59cac286a80832a2&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
+                >
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
