@@ -833,6 +833,28 @@ export function CatalogPage() {
                   Link
                 </a>
               </div>
+
+              {/* Thirty-Sixth Product - Fluted Coffee Table */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-square bg-white overflow-hidden mb-3">
+                  <img
+                    src="/coffee-table-living-room.png"
+                    alt="Fluted Coffee Table"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <h3 className="text-sm font-medium text-gray-900">Fluted Coffee Table</h3>
+                <p className="text-xs text-gray-600 mt-1 mb-2">Accent coffee table. It has smooth safe edges, a water-resistant surface for simple quick cleaning and it's actually easy to assemble.</p>
+                <a
+                  href="https://www.amazon.com/dp/B0GD1FNR1F?pd_rd_i=B0GD1FNR1F&pd_rd_w=N5GuP&content-id=amzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6&pf_rd_p=3bc66c0a-cc61-4816-aa2d-e53327eaddb6&pf_rd_r=SDKPV8DQT4XT7QM7TZ42&pd_rd_wg=ww9pj&pd_rd_r=46708b47-3aa6-49b1-8fb6-6da020881032&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=1e3ba0bf685a3d17ce79f3ceebbeb27f&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
+                >
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
