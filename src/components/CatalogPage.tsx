@@ -855,6 +855,28 @@ export function CatalogPage() {
                   Link
                 </a>
               </div>
+
+              {/* Thirty-Seventh Product - Bulb Vases */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-square bg-white overflow-hidden mb-3">
+                  <img
+                    src="/clear-accent-decor-vases.png"
+                    alt="Bulb Vases"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <h3 className="text-sm font-medium text-gray-900">Bulb Vases</h3>
+                <p className="text-xs text-gray-600 mt-1 mb-2">Handcrafted soda lime glass vases.</p>
+                <a
+                  href="https://www.amazon.com/YANWE1-Flower-Bouquet-Flowers-Wedding/dp/B0FFMMCMRQ?content-id=amzn1.sym.8eb671a2-a903-4c3a-b962-ebb867a4f8f8%3Aamzn1.sym.8eb671a2-a903-4c3a-b962-ebb867a4f8f8&crid=LPBMNFG4SHX8&cv_ct_cx=small%2Bsquare%2Bclear%2Bvase&keywords=small%2Bsquare%2Bclear%2Bvase&pd_rd_i=B0FFMMCMRQ&pd_rd_r=9d4b051d-6a31-4bb3-b586-4a082c1e5991&pd_rd_w=5y385&pd_rd_wg=k8vTK&pf_rd_p=8eb671a2-a903-4c3a-b962-ebb867a4f8f8&pf_rd_r=ZV41NHNP2QGPVBGNGVN5&qid=1787692722&s=home-garden&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=small%2Bsquare%2Bclear%2Bvas%2Cgarden%2C143&sr=1-2-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons&aref=BibVZjJ7WK&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=6739064744ee2ec2b96a64d9b6f2e3fe&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
+                >
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
