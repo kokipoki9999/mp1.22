@@ -115,8 +115,7 @@ export function CatalogPage() {
                     className="w-full h-full object-contain"
                   />
                 </div>
-                <h3 className="text-sm font-medium text-gray-900">L'Olivier</h3>
-                <p className="text-xs text-gray-600 mt-1 mb-2">Faux olive tree with a natural wood trunk, lifelike leaves, and realistic olives. Comes in a sturdy pot, easy to place as is or slip into a planter. No watering or upkeep—just shape the branches to your liking and dust every once in a while.</p>
+                <p className="text-xs text-gray-600 mt-1 mb-2">Faux Olive Tree, Natural Trunk</p>
                 <a 
                   href="https://www.amazon.com/Kazeila-Artificial-Office-Natural-Lifelike/dp/B0BKRFBSTF?crid=2HRCQ2K70RQSV&dib=eyJ2IjoiMSJ9.sC_u9ScCO97iF2uE4mjUTheu0-zSuN-fEY4XIdt7QyY6jO3vkM4OpmwAWBs4R5yVZUvIC4Zf8Sp85Xxz_Yhuc77pBm-Ek0idYs1YsAlKCfo.AYBHMo1VauNHY9dab4uhTkM_FiwtIw_j_INtWg8MfWk&dib_tag=se&keywords=kazeil%2Bfaux%2Btree%2Bolivier&qid=1754943935&sprefix=kazeil%2Bfaux%2Btree%2Bolivier%2B%2Caps%2C82&sr=8-6&th=1&linkCode=ll1&tag=maisonpacem05-20&linkId=71beb6d1e54b94ccc21491ab70da007b&language=en_US&ref_=as_li_ss_tl"
                   target="_blank"
