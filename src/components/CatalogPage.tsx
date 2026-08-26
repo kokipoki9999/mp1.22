@@ -72,8 +72,7 @@ export function CatalogPage() {
                     className="w-full h-full object-contain"
                   />
                 </div>
-                <h3 className="text-sm font-medium text-gray-900">Tabletop Water Fountain</h3>
-                <p className="text-xs text-gray-600 mt-1 mb-2">Compact tabletop fountain with a three-tier design, natural river rocks, a deep basin and soft lighting. For creating a relaxing mood in any room or hall. Features a quiet pump with an on/off switch and easy setup.</p>
+                <p className="text-xs text-gray-600 mt-1 mb-2">Tabletop Water Fountain</p>
                 <a 
                   href="https://www.amazon.com/Homedics-Tabletop-Water-Fountain-Soothing/dp/B000QTUJXS?ie=UTF8&th=1&linkCode=ll1&tag=maisonpacem05-20&linkId=7dd5629259de22b5b7f63a9c965ecc3e&language=en_US&ref_=as_li_ss_tl"
                   target="_blank"
