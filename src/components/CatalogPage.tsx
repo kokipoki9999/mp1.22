@@ -93,8 +93,7 @@ export function CatalogPage() {
                     className="w-full h-full object-contain"
                   />
                 </div>
-                <h3 className="text-sm font-medium text-gray-900">The Bubble Throw Blanket</h3>
-                <p className="text-xs text-gray-600 mt-1 mb-2">Plush faux rabbit fur throw with a soft 3D bubble texture on one side and smooth, ultra-soft fur on the other. Warm, cozy, anti-shedding—for snuggling and decor.</p>
+                <p className="text-xs text-gray-600 mt-1 mb-2">Plush Throw Blanket</p>
                 <a 
                   href="https://www.amazon.com/BENVWE-Blanket-Fleece-Bubble-Fluffy/dp/B0CGM57YFQ?pd_rd_w=LbhLW&content-id=amzn1.sym.679481c3-2bf4-4843-80c0-ffb319282e84%3Aamzn1.symc.c3d5766d-b606-46b8-ab07-1d9d1da0638a&pf_rd_p=679481c3-2bf4-4843-80c0-ffb319282e84&pf_rd_r=W103DQ19YNVZ8AQHX7Q3&pd_rd_wg=HWQoW&pd_rd_r=86571db8-2fd2-416e-9185-21f055141e5d&pd_rd_i=B0CGM57YFQ&th=1&linkCode=ll1&tag=maisonpacem05-20&linkId=d414ac45b70c97f71920cdfe3158591b&language=en_US&ref_=as_li_ss_tl"
                   target="_blank"
