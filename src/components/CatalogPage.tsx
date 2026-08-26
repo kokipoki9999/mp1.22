@@ -136,8 +136,7 @@ export function CatalogPage() {
                     className="w-full h-full object-contain"
                   />
                 </div>
-                <h3 className="text-sm font-medium text-gray-900">The Basket</h3>
-                <p className="text-xs text-gray-600 mt-1 mb-2">Large cotton rope storage basket handmade from 100% natural, chemical-free materials—soft, sturdy, and safe for kids and pets. For storing blankets, pillows, laundry, or toys. Folds for easy wash and pops back into shape when filled.</p>
+                <p className="text-xs text-gray-600 mt-1 mb-2">Large Storage Basket</p>
                 <a 
                   href="https://www.amazon.com/KAKAMAY-Blanket-Baskets-storage-Laundry/dp/B09Z2SYJQD?ie=UTF8&th=1&linkCode=ll1&tag=maisonpacem05-20&linkId=7b1f7e7f221e1d5f45c2f434f888da9b&language=en_US&ref_=as_li_ss_tl"
                   target="_blank"
