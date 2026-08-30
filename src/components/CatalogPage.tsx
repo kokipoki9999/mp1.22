@@ -69,7 +69,7 @@ export function CatalogPage() {
                   <img 
                     src="/fancyfountaindecor.jpg"
                     alt="Tabletop Water Fountain"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Tabletop Water Fountain</p>
@@ -79,7 +79,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -90,7 +90,7 @@ export function CatalogPage() {
                   <img 
                     src="/rabbitfurthrow.png"
                     alt="The Yearly Favorite: The Bubble Throw Blanket"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Plush Throw Blanket</p>
@@ -100,7 +100,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -112,7 +112,7 @@ export function CatalogPage() {
                   <img 
                     src="/theolivetreefinal.png"
                     alt="L'Olivier"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Faux Olive Tree, Natural Trunk</p>
@@ -122,7 +122,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -133,7 +133,7 @@ export function CatalogPage() {
                   <img 
                     src="/largestoragebasket.png"
                     alt="The Basket"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Large Storage Basket</p>
@@ -143,7 +143,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -154,7 +154,7 @@ export function CatalogPage() {
                   <img 
                     src="/triominivase.png"
                     alt="The Small Trio"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Matte Vase Set, 3pcs</p>
@@ -164,7 +164,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -175,7 +175,7 @@ export function CatalogPage() {
                   <img 
                     src="/marblebowl.png"
                     alt="100% Natural, Heavy Marble Ruffle Bowl"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Ruffle Bowl</p>
@@ -185,7 +185,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -196,7 +196,7 @@ export function CatalogPage() {
                   <img 
                     src="/vaseluxenoir.png"
                     alt="Large Ceramic Rustic Vase"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Bronze Vase</p>
@@ -206,7 +206,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -217,7 +217,7 @@ export function CatalogPage() {
                   <img 
                     src="/lampeclasse.png"
                     alt="Large, Contemporary Mushroom Lamp (Brass)"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Venus Mushroom Table Lamp</p>
@@ -227,7 +227,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -238,7 +238,7 @@ export function CatalogPage() {
                   <img 
                     src="/pillowcovers.png"
                     alt="Cream White, Soft Corduroy Pillow Cases"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Corduroy Throw Pillow Covers</p>
@@ -248,7 +248,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -259,7 +259,7 @@ export function CatalogPage() {
                   <img 
                     src="/bathroomset.png"
                     alt="Cream White, Bathroom Countertop Accessories"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Bathroom Accessories Set, 4pcs</p>
@@ -269,7 +269,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -280,7 +280,7 @@ export function CatalogPage() {
                   <img 
                     src="/ballaccent.png"
                     alt="Cream White, Accent Throw Pillow"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Ball Throw Pillow</p>
@@ -290,7 +290,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -301,7 +301,7 @@ export function CatalogPage() {
                   <img 
                     src="/swirlcandle.png"
                     alt='"Swirl" Soy Wax Decor Candle'
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Sculptural Swirl Candle</p>
@@ -311,7 +311,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -322,7 +322,7 @@ export function CatalogPage() {
                   <img 
                     src="/wide-belly-table-vase.png"
                     alt="The Heart Vase"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Wide-Belly 'Heart' Vase</p>
@@ -332,7 +332,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -343,7 +343,7 @@ export function CatalogPage() {
                   <img 
                     src="/simplechair.png"
                     alt="Accent Chair"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Accent Chair</p>
@@ -353,7 +353,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -364,7 +364,7 @@ export function CatalogPage() {
                   <img 
                     src="/chunky-knit-blanket.png"
                     alt="Chunky Knit Throw Blanket"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Chunky Knit Throw Blanket</p>
@@ -374,7 +374,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -385,7 +385,7 @@ export function CatalogPage() {
                   <img
                     src="/funflannelmirror.png"
                     alt="Irregular Flannel-Wrapped Mirror"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Irregular Flannel-Wrapped Mirror</p>
@@ -395,7 +395,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -406,7 +406,7 @@ export function CatalogPage() {
                   <img
                     src="/ribbed-pillar-candle-set.png"
                     alt="Scented Ribbed Pillar Candle Set"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Scented Pillar Candle Set, 2 pcs</p>
@@ -416,7 +416,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -427,7 +427,7 @@ export function CatalogPage() {
                   <img
                     src="/candleholders.png"
                     alt="100% Travertine Stone Candle Holders From Turkey (Set of 2)"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Travertine Candle Holder Set, 2 pcs</p>
@@ -437,7 +437,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -448,7 +448,7 @@ export function CatalogPage() {
                   <img
                     src="/tulip-stems-decor.jpg"
                     alt="Lifelike Tulip Stems"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Faux Tulips, 20 pcs</p>
@@ -458,7 +458,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -469,7 +469,7 @@ export function CatalogPage() {
                   <img
                     src="/vintage-mirror copy.jpg"
                     alt="The Vintage Mirror"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Gold Vintage Mirror</p>
@@ -479,7 +479,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -490,7 +490,7 @@ export function CatalogPage() {
                   <img
                     src="/faux-silk-peonies-for-decor-bedroom-wedding.png"
                     alt="Faux Silk Peonies"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Faux Peonies</p>
@@ -500,7 +500,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -511,7 +511,7 @@ export function CatalogPage() {
                   <img
                     src="/contemporary-rustic-decorative-vase.png"
                     alt="Rustic Terracotta Vase"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Terracotta Textured Vase</p>
@@ -521,7 +521,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -532,7 +532,7 @@ export function CatalogPage() {
                   <img
                     src="/contemporary-clear-smoked-plant-glass-vase.png"
                     alt="Smoked Glass Vase"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Smoked Glass Vase</p>
@@ -542,7 +542,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -553,7 +553,7 @@ export function CatalogPage() {
                   <img
                     src="/cherry-blossom-stems-decor-contemporary.png"
                     alt="Sakura Branches"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Sakura Branches</p>
@@ -563,7 +563,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -574,7 +574,7 @@ export function CatalogPage() {
                   <img
                     src="/kiku-flowers-decor-minimal-contemporary.png"
                     alt="Faux Kiku Flowers & Eucalyptus Arrangement"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Faux Kiku Flowers & Eucalyptus Arrangement</p>
@@ -584,7 +584,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -595,7 +595,7 @@ export function CatalogPage() {
                   <img
                     src="/tall-black-brass-vase-duo.png"
                     alt="Set of Tall Single-Stem Vases"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Tall Single-Stem Vase Set, 2pcs</p>
@@ -605,7 +605,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -616,7 +616,7 @@ export function CatalogPage() {
                   <img
                     src="/minimalist-accent-vase-trio.png"
                     alt="Stone-Look Vase Trio"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Stone-Look Vase Set, 3pcs</p>
@@ -626,7 +626,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -637,7 +637,7 @@ export function CatalogPage() {
                   <img
                     src="/contemporary-buffet-sideboard.png"
                     alt="Accent Sideboard"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Brown Buffet Cabinet</p>
@@ -647,7 +647,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -658,7 +658,7 @@ export function CatalogPage() {
                   <img
                     src="/wall-art-panels-decor.png"
                     alt="Framed Wall Art Panels"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Framed Wall Art Panels</p>
@@ -668,7 +668,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -679,7 +679,7 @@ export function CatalogPage() {
                   <img
                     src="/art-deco-table-vase-decor.jpg"
                     alt='Sculptural "Coral" Vase'
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Sculptural 'Coral' Vase</p>
@@ -689,7 +689,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -700,7 +700,7 @@ export function CatalogPage() {
                   <img
                     src="/calla-lily-faux-flower-decor copy.png"
                     alt="Lys Calla Flowers"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Faux Calla Lilies</p>
@@ -710,7 +710,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -721,7 +721,7 @@ export function CatalogPage() {
                   <img
                     src="/modern-tv-stand.png"
                     alt="Fluted TV Stand"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Walker Edison TV Console</p>
@@ -731,7 +731,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -742,7 +742,7 @@ export function CatalogPage() {
                   <img
                     src="/accent-wall-mirror-contemporary.png"
                     alt="Accent Mirror"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Gold Asymmetrical Mirror</p>
@@ -752,7 +752,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -763,7 +763,7 @@ export function CatalogPage() {
                   <img
                     src="/wall-decor-contemporary.png"
                     alt="Coral Wall Art"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Textured 'Coral' Wall Art</p>
@@ -773,7 +773,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -784,7 +784,7 @@ export function CatalogPage() {
                   <img
                     src="/end-table-decor-modern.png"
                     alt="Fluted End Table"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Fluted Side Table</p>
@@ -794,7 +794,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -805,7 +805,7 @@ export function CatalogPage() {
                   <img
                     src="/coffee-table-living-room.png"
                     alt="Fluted Coffee Table"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Fluted Coffee Table</p>
@@ -815,7 +815,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
@@ -826,7 +826,7 @@ export function CatalogPage() {
                   <img
                     src="/clear-accent-decor-vases.png"
                     alt="Bulb Vases"
-                    className="w-full h-full object-contain scale-[1.15]"
+                    className="w-full h-full object-contain"
                   />
                 </div>
                 <p className="text-xs text-gray-600 mt-1 mb-2">Bulb Vases</p>
@@ -836,7 +836,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
                   Link
                 </a>
               </div>
