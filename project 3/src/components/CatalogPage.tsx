@@ -1,5 +1,4 @@
 import React from 'react';
-import { ShoppingCart } from 'lucide-react';
 
 export function CatalogPage() {
   React.useEffect(() => {
@@ -80,7 +79,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
                 >
-                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-2 h-2 filter brightness-0 invert" />
                   Link
                 </a>
               </div>
@@ -102,7 +101,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
                 >
-                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-2 h-2 filter brightness-0 invert" />
                   Link
                 </a>
               </div>
@@ -125,7 +124,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
                 >
-                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-2 h-2 filter brightness-0 invert" />
                   Link
                 </a>
               </div>
@@ -147,7 +146,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
                 >
-                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-2 h-2 filter brightness-0 invert" />
                   Link
                 </a>
               </div>
@@ -169,7 +168,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
                 >
-                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-2 h-2 filter brightness-0 invert" />
                   Link
                 </a>
               </div>
@@ -191,7 +190,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
                 >
-                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-2 h-2 filter brightness-0 invert" />
                   Link
                 </a>
               </div>
@@ -213,7 +212,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
                 >
-                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-2 h-2 filter brightness-0 invert" />
                   Link
                 </a>
               </div>
@@ -235,7 +234,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
                 >
-                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-2 h-2 filter brightness-0 invert" />
                   Link
                 </a>
               </div>
@@ -257,7 +256,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
                 >
-                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-2 h-2 filter brightness-0 invert" />
                   Link
                 </a>
               </div>
@@ -279,7 +278,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
                 >
-                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-2 h-2 filter brightness-0 invert" />
                   Link
                 </a>
               </div>
@@ -301,7 +300,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
                 >
-                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-2 h-2 filter brightness-0 invert" />
                   Link
                 </a>
               </div>
@@ -323,7 +322,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
                 >
-                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-2 h-2 filter brightness-0 invert" />
                   Link
                 </a>
               </div>
@@ -345,7 +344,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
                 >
-                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-2 h-2 filter brightness-0 invert" />
                   Link
                 </a>
               </div>
@@ -367,7 +366,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
                 >
-                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-2 h-2 filter brightness-0 invert" />
                   Link
                 </a>
               </div>
@@ -389,7 +388,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
                 >
-                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-2 h-2 filter brightness-0 invert" />
                   Link
                 </a>
               </div>
@@ -411,7 +410,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 px-3 py-1.5 text-xs bg-black text-white rounded-md hover:bg-gray-800 hover:scale-105 transition-all duration-200 ease-in-out shadow-sm hover:shadow-md"
                 >
-                  <img src="/amazon-logo.svg" alt="Amazon" className="w-3 h-3 filter brightness-0 invert" />
+                  <img src="/amazon-logo.svg" alt="Amazon" className="w-2 h-2 filter brightness-0 invert" />
                   Link
                 </a>
               </div>
