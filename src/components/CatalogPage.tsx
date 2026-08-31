@@ -840,6 +840,27 @@ export function CatalogPage() {
                   Link
                 </a>
               </div>
+
+              {/* Thirty-Eighth Product - Kova Rattan Sideboard Cabinets */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
+                  <img
+                    src="/rattan-buffet-cabinets.png"
+                    alt="'Kova' Rattan Sideboard Cabinets"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <p className="text-xs text-gray-600 mt-1 mb-2">'Kova' Rattan Sideboard Cabinets</p>
+                <a
+                  href="https://www.amazon.com/-/fr/Nathan-James-buffets-dentr%C3%A9e-Ch%C3%AAne/dp/B0BLG62LS5?th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=28a7692396efbc017170af9c2b2123cf&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
+                >
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
