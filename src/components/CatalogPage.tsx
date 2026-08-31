@@ -79,7 +79,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -100,7 +100,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -122,7 +122,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -143,7 +143,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -164,7 +164,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -185,7 +185,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -206,7 +206,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -227,7 +227,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -248,7 +248,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -269,7 +269,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -290,7 +290,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -311,7 +311,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -332,7 +332,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -353,7 +353,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -374,7 +374,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -395,7 +395,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -416,7 +416,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -437,7 +437,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -458,7 +458,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -479,7 +479,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -500,7 +500,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -521,7 +521,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -542,7 +542,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -563,7 +563,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -584,7 +584,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -605,7 +605,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -626,7 +626,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -647,7 +647,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -668,7 +668,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -689,7 +689,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -710,7 +710,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -731,7 +731,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -752,7 +752,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -773,7 +773,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -794,7 +794,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -815,7 +815,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
@@ -836,7 +836,7 @@ export function CatalogPage() {
                   rel="noopener noreferrer"
                   className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
                 >
-                  <img src="/amazon-icon.svg" alt="Amazon" className="h-5 w-5 object-contain" />
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
                   Link
                 </a>
               </div>
