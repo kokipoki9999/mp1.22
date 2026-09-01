@@ -861,6 +861,27 @@ export function CatalogPage() {
                   Link
                 </a>
               </div>
+
+              {/* Thirty-Ninth Product - Full Length Arched Mirror */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
+                  <img
+                    src="/full-lenght-arched-mirror.png"
+                    alt="Full Length Arched Mirror"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <p className="text-xs text-gray-600 mt-1 mb-2">Full Length Arched Mirror</p>
+                <a
+                  href="https://www.amazon.com/HARRITPURE-Arched-Length-Mirror-Mirrors/dp/B0D7CRPNHR?ie=UTF8&th=1&linkCode=ll2&tag=maisonpacem05-20&linkId=a3b8d025437382d095a8b24341321229&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
+                >
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
