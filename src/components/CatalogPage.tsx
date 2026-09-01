@@ -882,6 +882,27 @@ export function CatalogPage() {
                   Link
                 </a>
               </div>
+
+              {/* Fortieth Product - Sherpa Accent Chairs */}
+              <div className="group cursor-pointer flex flex-col items-center text-center sm:items-start sm:text-left">
+                <div className="aspect-[4/5] bg-white overflow-hidden mb-3">
+                  <img
+                    src="/sherpa-accent-chairs-set.png"
+                    alt="Sherpa Accent Chairs, Set of 2"
+                    className="w-full h-full object-contain"
+                  />
+                </div>
+                <p className="text-xs text-gray-600 mt-1 mb-2">Sherpa Accent Chairs, Set of 2</p>
+                <a
+                  href="https://www.amazon.com/dp/B09J4Q34QH?asc_item-id=amzn1.ideas.2C7HVIIV6SXN1&th=1&utm_source=Pinterest&utm_medium=organic&linkCode=ll2&tag=maisonpacem05-20&linkId=0a9c963195bf0e36a2254c738a1e769f&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-1.5 text-xs text-black underline underline-offset-2 transition-colors hover:text-gray-600"
+                >
+                  <img src="/amazon-icon.svg" alt="Amazon" className="h-3 w-3 object-contain" />
+                  Link
+                </a>
+              </div>
             </div>
           </div>
         </div>
